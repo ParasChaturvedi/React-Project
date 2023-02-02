@@ -1,0 +1,62 @@
+.table {
+  width: 95%;
+  height: 134px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 35px;
+  margin-top: 35px;
+  padding: 12px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px 1.5px grey;
+}
+.button {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ff3838;
+  color: whitesmoke;
+  border-radius: 15px;
+  border: 1px solid red;
+  font-weight: 300;
+  font-size: 0.9rem;
+  padding: 3px 6px;
+  margin-left: 25px;
+  justify-content: center;
+  text-decoration: none;
+  align-items: center;
+}
+body {
+  background-color: azure;
+}
+table thead th {
+  padding-left: 29px;
+  margin: 15px;
+}
+table tbody td {
+  padding: 3px;
+  padding-left: 25px;
+}
+
+#maindiv{
+  margin-top: -15px;
+  width: 95%;
+  height: 334px;
+  margin-left: 35px;
+  padding: 22px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px 1.5px grey;
+}
+.description{
+  margin: 5px;
+  margin-left: 80px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.head{
+  font-family: "Georgia", 'Times New Roman', Times, serif;
+}
+
